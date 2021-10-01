@@ -1,4 +1,5 @@
 import React,{useState,useEffect} from 'react';
+import Card from './card'
 import './App.css';
 
 function App() {
@@ -30,9 +31,13 @@ function App() {
       {
         data && data.length>0 && 
         data.map((item)=>
-          <li key ={item.name.toString()}>
-            <b>Name: </b>{item.name} <b>Profession: </b>{item.profession}
-          </li>
+          <Card
+            image={item.image}
+            name={item.name}
+            profession={item.profession}
+            about={item.about}
+            alt={item.name}
+          />
         )
       }
     </div>

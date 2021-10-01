@@ -1,10 +1,14 @@
 [
   {
+    "about" : "Pretty cool dude all said and done",
     "name" : "Jeff Bliss",
+    "image" : "https://nemac.unca.edu/wp-content/uploads/sites/125/2020/11/jbliss_web-e1606236490722-300x300.jpg",
     "profession" : "Software Developer"
   },
   {
+    "about" : "Physics is cool. So is AI.",
     "name" : "Perrin Alaine-Sedano",
+    "image" : "https://nemac.unca.edu/wp-content/uploads/sites/125/2021/05/Perrin-Alaine-Sedano-scaled-e1620909307424-300x300.jpg",
     "profession" : "Student"
   }
 ]
