@@ -1,3 +1,8 @@
+# Github Pages
+https://nemac.github.io/react-app-dashboard/
+
+To build on gh-pages branch run: `npm run deploy` 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
