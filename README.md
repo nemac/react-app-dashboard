@@ -1,5 +1,5 @@
-### `npm run deploy`
-Deploys the application to gh-pages: https://nemac.github.io/react-app-dashboard/
+# Github Pages Link
+https://nemac.github.io/react-app-dashboard/
 
 # Getting Started with Create React App
 
@@ -8,6 +8,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm run deploy`
+Deploys the application to gh-pages: https://nemac.github.io/react-app-dashboard/
 
 ### `yarn start`
 
